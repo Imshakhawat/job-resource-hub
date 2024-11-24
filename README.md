@@ -16,7 +16,7 @@ Hello This is shakhawat , Welcome to my **Resource Hub**! This repository is a c
 Here you'll find resources to help you with job hunting, career guidance, and professional growth. 🧑‍💻
 
 ### Blogs 🌐
-- [Awesome Job Blog 1](https://example.com)
+- [Going Remote for Life by AHM Modasser Billah ](https://modasserbillah.com/2020/09/07/going-remote/)
 - [Career Insights Blog](https://example.com)
 
 ### YouTube Channels 📺
@@ -31,17 +31,8 @@ Here you'll find resources to help you with job hunting, career guidance, and pr
 
 ## 🛠 Tools Resources
 A collection of tools and utilities to enhance productivity and make your work more efficient. ⚙️
-
-### Blogs 🌐
-- [Top 10 Coding Tools](https://example.com)
-- [Productivity Tips for Developers](https://example.com)
-
-### YouTube Channels 📺
-- [Best Tools for Coders](https://youtube.com/example)
-- [Work Smarter, Not Harder](https://youtube.com/example)
-
-### Tools 🛠
-- [Visual Studio Code](https://code.visualstudio.com/)
+### All in One Tools List🛠
+- [Tinywow](https://tinywow.com/)
 - [Notion](https://www.notion.so/)
 - [Trello](https://trello.com/)
 
@@ -80,21 +71,3 @@ Learnings and experiences to help you grow personally and professionally. 🌟
 - [Steve Jobs' Stanford Commencement Speech](https://youtube.com/example)
 
 ---
-
-## ⭐ How to Contribute
-Feel free to suggest additional resources! 🤝
-1. Fork this repository.
-2. Add your resource(s) under the appropriate section.
-3. Submit a pull request with your updates.
-
----
-
-## 🏷 Badges
-![GitHub Repo stars](https://img.shields.io/github/stars/your-repo-name?style=social) 
-![GitHub forks](https://img.shields.io/github/forks/your-repo-name?style=social)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-
----
-
-## 📣 Connect with Me
-🌐 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐦 [Twitter](https://twitter.com/yourhandle) | 💌 [Email](mailto:youremail@example.com)
