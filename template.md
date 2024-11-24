@@ -1,6 +1,6 @@
 # 🌟 Resource Hub 📚
 
-Hello This is shakhawat , Welcome to my **Resource Hub**! This repository is a curated collection of valuable resources I have explored (or plan to explore) to help you with jobs, tools, interviews, and life lessons. 🚀
+Welcome to my **Resource Hub**! This repository is a curated collection of valuable resources I have explored (or plan to explore) to help you with jobs, tools, interviews, and life lessons. 🚀
 
 ---
 
