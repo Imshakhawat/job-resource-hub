@@ -36,6 +36,14 @@ A collection of tools and utilities to enhance productivity and make your work m
 - [Notion](https://www.notion.so/)
 - [Trello](https://trello.com/)
 
+### Top LLMs 🛠
+- [Blackbox](https://www.blackbox.ai/) - Specializes in assisting developers by turning ideas into code snippets with precision.
+- [ZZZCode](https://zzzcode.ai/) - Focused on simplifying coding through AI, delivering highly efficient and reliable solutions.
+- [Deepseek](https://chat.deepseek.com/) - A conversational AI built for deep, meaningful interactions and advanced context understanding.
+- [Lovable.dev](https://lovable.dev/) - creates webpages within minutes.
+- [V0.dev](https://v0.dev/) - best for creating webpages within minutes.
+- [bolt.new](https://bolt.new/) - best for building any type of projects.
+
 ---
 
 ## 🎯 Interview Resources
